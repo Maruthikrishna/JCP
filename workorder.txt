@@ -7,5 +7,6 @@ NCP
 ADmin
 State
 city
-
+Pin
+Area
 thanks
