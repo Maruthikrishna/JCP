@@ -1,2 +1,5 @@
 create
 role
+
+mumbai
+thane
